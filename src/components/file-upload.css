@@ -1,0 +1,45 @@
+.list-of-images {
+  display: flex;
+}
+
+.images-container {
+  display: flex;
+  justify-content: center;
+  background-color: transparent;
+}
+
+.choose-file {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.form-container {
+  margin: 10px;
+}
+
+.form {
+  background-color: darkslategray;
+  height: 120px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.whole-container {
+  background-color: #65738a;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.button {
+  background-color: dodgerblue;
+  height: 35px;
+  width: 100px;
+  border-radius: 6px;
+  border-width: 0px;
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 14px;
+}
